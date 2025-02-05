@@ -10,8 +10,9 @@
 </br>
 
 <p align="center" width="100%">
-    <img width="40%" src="images/github_image.png">
+    <img width="40%" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnB3OWNlbnFmZ2hjeTFvZzQ0dmh2dHl5eGttdzFxZmg5bTVzemEweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
+
 
 I am a highly motivated **Software Engineer & Cloud Engineer** with experience in developing robust web applications and cloud-based solutions. I enjoy solving complex problems and continuously learning about new technologies. My expertise includes **full-stack development, cloud computing, and DevOps practices**.
 
