@@ -10,7 +10,7 @@
 </br>
 
 <p align="center" width="100%">
-    <img width="40%" src="images/software_engineering.jpg">
+    <img width="40%" src="images/github_image.png">
 </p>
 
 I am a highly motivated **Software Engineer & Cloud Engineer** with experience in developing robust web applications and cloud-based solutions. I enjoy solving complex problems and continuously learning about new technologies. My expertise includes **full-stack development, cloud computing, and DevOps practices**.
